@@ -74,6 +74,11 @@
         
         [dataTable setHidden:NO];
         [dataTable reloadData];
+        
+        [txtFldAge setText:nil];
+        [txtFldName setText:nil];
+
+
     }
 }
 
