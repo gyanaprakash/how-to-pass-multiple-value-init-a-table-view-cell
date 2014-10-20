@@ -14,6 +14,7 @@
 		BCF5ABC019F4F86F0008FBFF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCF5ABBF19F4F86F0008FBFF /* Images.xcassets */; };
 		BCF5ABC319F4F86F0008FBFF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCF5ABC119F4F86F0008FBFF /* LaunchScreen.xib */; };
 		BCF5ABCF19F4F86F0008FBFF /* task_3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF5ABCE19F4F86F0008FBFF /* task_3Tests.m */; };
+		BCF5ABD919F4F88F0008FBFF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCF5ABD819F4F88F0008FBFF /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		BCF5ABC819F4F86F0008FBFF /* task.3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = task.3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCF5ABCD19F4F86F0008FBFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCF5ABCE19F4F86F0008FBFF /* task_3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = task_3Tests.m; sourceTree = "<group>"; };
+		BCF5ABD819F4F88F0008FBFF /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				BCF5ABB719F4F86F0008FBFF /* AppDelegate.m */,
 				BCF5ABB919F4F86F0008FBFF /* ViewController.h */,
 				BCF5ABBA19F4F86F0008FBFF /* ViewController.m */,
+				BCF5ABD819F4F88F0008FBFF /* ViewController.xib */,
 				BCF5ABBC19F4F86F0008FBFF /* Main.storyboard */,
 				BCF5ABBF19F4F86F0008FBFF /* Images.xcassets */,
 				BCF5ABC119F4F86F0008FBFF /* LaunchScreen.xib */,
@@ -201,6 +204,7 @@
 			files = (
 				BCF5ABBE19F4F86F0008FBFF /* Main.storyboard in Resources */,
 				BCF5ABC319F4F86F0008FBFF /* LaunchScreen.xib in Resources */,
+				BCF5ABD919F4F88F0008FBFF /* ViewController.xib in Resources */,
 				BCF5ABC019F4F86F0008FBFF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
