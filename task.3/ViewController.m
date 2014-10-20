@@ -23,7 +23,7 @@
     [dataTable setDataSource:self];
     [dataTable setDelegate:self];
     [dataTable setHidden:YES];
-    [dataTable setFrame:CGRectMake(0, 300, 370, 150)];
+    [dataTable setFrame:CGRectMake(0, 250, 380, 350)];
     [self.view addSubview:dataTable];
     
     textarray=[[NSMutableArray alloc]init];
